@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.2.10)  22 APR 2021 23:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.2.10)  23 APR 2021 02:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -128,15 +128,12 @@ Package epstopdf Info: Source file: <./figs/iir/epsilons.eps>
 (epstopdf)                    date: 2021-04-22 23:34:21
 (epstopdf)                    size: 31331 bytes
 (epstopdf)             Output file: <./figs/iir/epsilons-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-04-22 23:52:56
+(epstopdf)                    size: 12491 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figs/iir/epsilons-eps-co
 nverted-to.pdf ./figs/iir/epsilons.eps>
 (epstopdf)             \includegraphics on input line 147.
-runsystem(repstopdf --outfile=./figs/iir/epsilons-eps-converted-to.pdf ./figs/i
-ir/epsilons.eps)...executed safely (allowed).
-
-Package epstopdf Info: Result file: <./figs/iir/epsilons-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-04-22 23:52:56
-(epstopdf)                    size: 12491 bytes.
+Package epstopdf Info: Output file is already uptodate.
 <./figs/iir/epsilons-eps-converted-to.pdf, id=23, 462.52798pt x 346.89601pt>
 File: ./figs/iir/epsilons-eps-converted-to.pdf Graphic file (type pdf)
 <use ./figs/iir/epsilons-eps-converted-to.pdf>
@@ -153,16 +150,12 @@ Package epstopdf Info: Source file: <./figs/iir/lpanalog_cheb.eps>
 (epstopdf)                    size: 31453 bytes
 (epstopdf)             Output file: <./figs/iir/lpanalog_cheb-eps-converted-to.
 pdf>
+(epstopdf)                    date: 2021-04-22 23:52:57
+(epstopdf)                    size: 44256 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figs/iir/lpanalog_cheb-e
 ps-converted-to.pdf ./figs/iir/lpanalog_cheb.eps>
 (epstopdf)             \includegraphics on input line 154.
-runsystem(repstopdf --outfile=./figs/iir/lpanalog_cheb-eps-converted-to.pdf ./f
-igs/iir/lpanalog_cheb.eps)...executed safely (allowed).
-
-Package epstopdf Info: Result file: <./figs/iir/lpanalog_cheb-eps-converted-to.
-pdf>
-(epstopdf)                    date: 2021-04-22 23:52:57
-(epstopdf)                    size: 44256 bytes.
+Package epstopdf Info: Output file is already uptodate.
 <./figs/iir/lpanalog_cheb-eps-converted-to.pdf, id=24, 462.52798pt x 346.89601p
 t>
 File: ./figs/iir/lpanalog_cheb-eps-converted-to.pdf Graphic file (type pdf)
@@ -180,16 +173,12 @@ Package epstopdf Info: Source file: <./figs/iir/AnalogBandpass.eps>
 (epstopdf)                    size: 19703 bytes
 (epstopdf)             Output file: <./figs/iir/AnalogBandpass-eps-converted-to
 .pdf>
+(epstopdf)                    date: 2021-04-22 23:52:57
+(epstopdf)                    size: 10704 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figs/iir/AnalogBandpass-
 eps-converted-to.pdf ./figs/iir/AnalogBandpass.eps>
 (epstopdf)             \includegraphics on input line 160.
-runsystem(repstopdf --outfile=./figs/iir/AnalogBandpass-eps-converted-to.pdf ./
-figs/iir/AnalogBandpass.eps)...executed safely (allowed).
-
-Package epstopdf Info: Result file: <./figs/iir/AnalogBandpass-eps-converted-to
-.pdf>
-(epstopdf)                    date: 2021-04-22 23:52:57
-(epstopdf)                    size: 10704 bytes.
+Package epstopdf Info: Output file is already uptodate.
 <./figs/iir/AnalogBandpass-eps-converted-to.pdf, id=25, 462.52798pt x 346.89601
 pt>
 File: ./figs/iir/AnalogBandpass-eps-converted-to.pdf Graphic file (type pdf)
@@ -209,16 +198,12 @@ Package epstopdf Info: Source file: <./figs/iir/DigitalBandpass.eps>
 (epstopdf)                    size: 23480 bytes
 (epstopdf)             Output file: <./figs/iir/DigitalBandpass-eps-converted-t
 o.pdf>
+(epstopdf)                    date: 2021-04-22 23:52:57
+(epstopdf)                    size: 11457 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figs/iir/DigitalBandpass
 -eps-converted-to.pdf ./figs/iir/DigitalBandpass.eps>
 (epstopdf)             \includegraphics on input line 190.
-runsystem(repstopdf --outfile=./figs/iir/DigitalBandpass-eps-converted-to.pdf .
-/figs/iir/DigitalBandpass.eps)...executed safely (allowed).
-
-Package epstopdf Info: Result file: <./figs/iir/DigitalBandpass-eps-converted-t
-o.pdf>
-(epstopdf)                    date: 2021-04-22 23:52:57
-(epstopdf)                    size: 11457 bytes.
+Package epstopdf Info: Output file is already uptodate.
 <./figs/iir/DigitalBandpass-eps-converted-to.pdf, id=122, 462.52798pt x 346.896
 01pt>
 File: ./figs/iir/DigitalBandpass-eps-converted-to.pdf Graphic file (type pdf)
@@ -236,15 +221,12 @@ Package epstopdf Info: Source file: <./figs/fir/lowpass.eps>
 (epstopdf)                    date: 2021-04-22 23:44:55
 (epstopdf)                    size: 20515 bytes
 (epstopdf)             Output file: <./figs/fir/lowpass-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-04-22 23:52:57
+(epstopdf)                    size: 11905 bytes
 (epstopdf)             Command: <repstopdf --outfile=./figs/fir/lowpass-eps-con
 verted-to.pdf ./figs/fir/lowpass.eps>
 (epstopdf)             \includegraphics on input line 263.
-runsystem(repstopdf --outfile=./figs/fir/lowpass-eps-converted-to.pdf ./figs/fi
-r/lowpass.eps)...executed safely (allowed).
-
-Package epstopdf Info: Result file: <./figs/fir/lowpass-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-04-22 23:52:57
-(epstopdf)                    size: 11905 bytes.
+Package epstopdf Info: Output file is already uptodate.
 <./figs/fir/lowpass-eps-converted-to.pdf, id=155, 462.52798pt x 346.89601pt>
 File: ./figs/fir/lowpass-eps-converted-to.pdf Graphic file (type pdf)
 <use ./figs/fir/lowpass-eps-converted-to.pdf>
@@ -257,54 +239,58 @@ Overfull \hbox (81.79134pt too wide) in paragraph at lines 263--264
  []
 
 [9] [10 <./figs/fir/lowpass-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <./figs/fir/lowpass.eps>
-(epstopdf)                    date: 2021-04-22 23:44:55
-(epstopdf)                    size: 20515 bytes
-(epstopdf)             Output file: <./figs/fir/lowpass-eps-converted-to.pdf>
-(epstopdf)                    date: 2021-04-22 23:52:57
-(epstopdf)                    size: 11905 bytes
-(epstopdf)             Command: <repstopdf --outfile=./figs/fir/lowpass-eps-con
-verted-to.pdf ./figs/fir/lowpass.eps>
+Package epstopdf Info: Source file: <./figs/fir/bandpass.eps>
+(epstopdf)                    date: 2021-04-22 23:45:13
+(epstopdf)                    size: 21264 bytes
+(epstopdf)             Output file: <./figs/fir/bandpass-eps-converted-to.pdf>
+(epstopdf)             Command: <repstopdf --outfile=./figs/fir/bandpass-eps-co
+nverted-to.pdf ./figs/fir/bandpass.eps>
 (epstopdf)             \includegraphics on input line 284.
-Package epstopdf Info: Output file is already uptodate.
-File: ./figs/fir/lowpass-eps-converted-to.pdf Graphic file (type pdf)
-<use ./figs/fir/lowpass-eps-converted-to.pdf>
-Package pdftex.def Info: ./figs/fir/lowpass-eps-converted-to.pdf  used on input
- line 284.
+runsystem(repstopdf --outfile=./figs/fir/bandpass-eps-converted-to.pdf ./figs/f
+ir/bandpass.eps)...executed safely (allowed).
+
+Package epstopdf Info: Result file: <./figs/fir/bandpass-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-04-23 02:22:50
+(epstopdf)                    size: 12289 bytes.
+<./figs/fir/bandpass-eps-converted-to.pdf, id=190, 462.52798pt x 346.89601pt>
+File: ./figs/fir/bandpass-eps-converted-to.pdf Graphic file (type pdf)
+<use ./figs/fir/bandpass-eps-converted-to.pdf>
+Package pdftex.def Info: ./figs/fir/bandpass-eps-converted-to.pdf  used on inpu
+t line 284.
 (pdftex.def)             Requested size: 426.79134pt x 320.11156pt.
 
 Overfull \hbox (81.79134pt too wide) in paragraph at lines 284--285
 [][] 
  []
 
-[11] (./FilterDesign.aux) ) 
+[11 <./figs/fir/bandpass-eps-converted-to.pdf>] (./FilterDesign.aux) ) 
 Here is how much of TeX's memory you used:
- 1235 strings out of 483140
- 18840 string characters out of 5965151
+ 1241 strings out of 483140
+ 19078 string characters out of 5965151
  250854 words of memory out of 5000000
- 16284 multiletter control sequences out of 15000+600000
+ 16289 multiletter control sequences out of 15000+600000
  536799 words of font info for 39 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  30i,12n,25p,531b,213s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-mi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pf
-b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/
-texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10
-.pfb>
-Output written on FilterDesign.pdf (11 pages, 263667 bytes).
+</usr/sha
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on FilterDesign.pdf (11 pages, 272203 bytes).
 PDF statistics:
- 242 PDF objects out of 1000 (max. 8388607)
- 103 compressed objects within 2 object streams
+ 271 PDF objects out of 1000 (max. 8388607)
+ 111 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
