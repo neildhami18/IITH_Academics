@@ -136,7 +136,7 @@ Download all latex-tikz codes from
 https://github.com/neildhami18/IITH_Academics/blob/main/EE4013/Assignment1/Assignment1.tex
 \end{lstlisting}
 \section{Problem}
-(Q 26) Consider the following C program.
+(Q 18) Consider the following C program.
 
 \lstset{language=C,
     basicstyle=\ttfamily,
@@ -148,8 +148,8 @@ https://github.com/neildhami18/IITH_Academics/blob/main/EE4013/Assignment1/Assig
 \begin{lstlisting}
 #include <stdio.h>
 int jumble(int x, int y){
-    x = 2*x + y;
-    return x;
+    y = 2*x + y;
+    return y;
 }
 int main(){
     int x=2, y=5;
@@ -165,7 +165,7 @@ The value printed by the program is?
 \textbf{Answer} : 26
 \newline
 \newline
-\textbf{Explanation}
+\textbf{Explanation:}
 \newline
 This is a very simple function call problem. The only tricky part involved is that the global variables \textbf{x} and \textbf{y} are called as parameters $y$ and $x$ respectively during function call. The function calls in the main loop return the values for \textbf{x} and \textbf{y} as:
 \begin{lstlisting}
@@ -173,6 +173,20 @@ This is a very simple function call problem. The only tricky part involved is th
     x = jumble(y,x) = 2*12 + 2 = 26
 \end{lstlisting}
 
-\end{document}
+\section{Concept}
+The function \textbf{jumble} performs an operation commonly known as "\textbf{saxpy}" (\textbf{S}ingle-precision real \textbf{A}lpha \textbf{X} \textbf{P}lus \textbf{Y})
 
+\begin{definition}[Saxpy]
+If x, y $\in \mathbb{R}^{n}$ and a $\in \mathbb{R}$, then this operation overwrites y with y + a*x. 
+\end{definition}
+
+This function can also be presented as a dot product of a coefficient vector with the input vector:
+\begin{align}
+    y = \begin{pmatrix} a & 1 \end{pmatrix} 
+    \begin{pmatrix} x \\ y \end{pmatrix}
+\end{align}
+
+where a = 2 in our case.
+
+\end{document}
 
