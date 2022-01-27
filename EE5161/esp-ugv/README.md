@@ -1,4 +1,4 @@
 ## UGV Projects
 
-*UGV Testing with Dabble Controller 
-*UGV Pre-set Path (Square) 
+* UGV Testing with Dabble Controller 
+* UGV Pre-set Path (Square) 
